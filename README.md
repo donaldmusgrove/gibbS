@@ -1,6 +1,6 @@
 # gibbS
 
-The aim of gibbS is to provide functionality for randomly sampling Gibbs. 
+The aim of gibbS is to provide functionality within R for randomly sampling Gibbs. 
 
 Key feature:
 
