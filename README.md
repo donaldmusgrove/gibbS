@@ -19,6 +19,8 @@ install_github("gibbS", "donaldmusgrove")
 ```
 
 ## Running the Gibb Sampler
+
+Generate a random Gibb with the following code.
 ```R
 library(gibbS)
 gibbsampler(42)   #Input a random number
