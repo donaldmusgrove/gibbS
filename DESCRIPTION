@@ -1,9 +1,9 @@
 Package: gibbS
-Title: What the package does (short line)
+Title: A less general Gibbs sampler.
 Version: 0.1
 Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (paragraph)
+Description: The gibbS package is a figurative Gibbs sampler in the sense that random pictures of the Gibbs brothers are generated.
 Depends:
     R (>= 2.14)
-License: What license is it under?
+License:  GPL-3
 LazyData: true
