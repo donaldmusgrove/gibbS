@@ -9,7 +9,7 @@ gibbsampler(seed = sample(1:4, 1))
 \item{seed}{Enter a random number or one is selected for you.}
 }
 \description{
-This function samples gibbs.
+This function samples a Gibb brother.
 }
 \examples{
 gibbsampler()
