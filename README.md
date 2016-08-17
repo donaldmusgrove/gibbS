@@ -15,7 +15,7 @@ To get the current development version from github:
 ```R
 # install.packages("devtools")
 library(devtools)
-install_github("gibbS", "donaldmusgrove")
+install_github("donaldmusgrove/gibbS")
 ```
 
 ## Running the Gibb Sampler
